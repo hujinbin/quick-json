@@ -3,7 +3,7 @@
  
 
 ``` bash
-##快速获取所选id下的input的数据，返回 
+## 快速获取所选id下的input的数据，返回 
 <div id="demo">
    <input type="text" name="name">         
    <button class="btn btn-default" id="insertData">获取数据</button>                   
